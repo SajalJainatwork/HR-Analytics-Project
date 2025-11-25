@@ -1,3 +1,5 @@
+<img width="960" height="540" alt="hr-lifecycle-slide1" src="https://github.com/user-attachments/assets/36b9a390-c008-4d48-9f1f-bad23a401225" />
+
 # HR-Analytics-Project
 Data Analytics 
 
